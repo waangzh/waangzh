@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bechoer
+- 👋 Hi, I’m @waangzh
 - 👀 I’m interested in coding,football⚽ and basketball🏀
 - 🌱 I’m currently learning CS
 
