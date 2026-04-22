@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waangzh
 - 👀 I’m interested in coding,football⚽ and basketball🏀
 - 🌱 I’m currently learning CS
-
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
   
 <p align="center">
   <a href="https://skillicons.dev">
