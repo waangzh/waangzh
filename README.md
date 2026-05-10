@@ -7,11 +7,7 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake.svg" />
 </picture>
   
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,git,linux,postman,vim,html,js,css" />
-  </a>
-</p>
+
 <!---
 Bechoer/Bechoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
