@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @waangzh
-- 👀 I’m interested in coding,football⚽ and basketball🏀
-- 🌱 I’m currently learning CS
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake.svg" />
