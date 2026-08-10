@@ -18,15 +18,6 @@ I like the competition, teamwork and unpredictability of sports — pretty much 
 
 > Code. Build. Play. Repeat.
 
-## 📊 GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/waangzh/waangzh/output/github-snake.svg" />
-</picture>
-  
-
 ## 👾 Contributions
 
 <picture>
@@ -39,7 +30,7 @@ I like the competition, teamwork and unpredictability of sports — pretty much 
     srcset="https://raw.githubusercontent.com/waangzh/waangzh/output/pacman-contribution-graph.svg"
   />
   <img
-    alt="pacman contribution graph"
+    alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/waangzh/waangzh/output/pacman-contribution-graph.svg"
   />
 </picture>
